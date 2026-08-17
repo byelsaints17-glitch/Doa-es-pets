@@ -1,0 +1,6 @@
+{
+  "name": "UNAHG PET - Doações para Animais de Rua",
+  "description": "Landing page e sistema de arrecadação de doações voluntárias via Pix e Mercado Pago para animais abandonados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
